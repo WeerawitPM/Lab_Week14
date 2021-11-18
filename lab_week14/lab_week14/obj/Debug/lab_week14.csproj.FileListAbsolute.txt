@@ -1,0 +1,9 @@
+D:\Git\CL2564\Lab_Week14\lab_week14\lab_week14\bin\Debug\lab_week14.exe.config
+D:\Git\CL2564\Lab_Week14\lab_week14\lab_week14\bin\Debug\lab_week14.exe
+D:\Git\CL2564\Lab_Week14\lab_week14\lab_week14\bin\Debug\lab_week14.pdb
+D:\Git\CL2564\Lab_Week14\lab_week14\lab_week14\obj\Debug\lab_week14.csproj.AssemblyReference.cache
+D:\Git\CL2564\Lab_Week14\lab_week14\lab_week14\obj\Debug\lab_week14.Properties.Resources.resources
+D:\Git\CL2564\Lab_Week14\lab_week14\lab_week14\obj\Debug\lab_week14.csproj.GenerateResource.cache
+D:\Git\CL2564\Lab_Week14\lab_week14\lab_week14\obj\Debug\lab_week14.csproj.CoreCompileInputs.cache
+D:\Git\CL2564\Lab_Week14\lab_week14\lab_week14\obj\Debug\lab_week14.exe
+D:\Git\CL2564\Lab_Week14\lab_week14\lab_week14\obj\Debug\lab_week14.pdb
